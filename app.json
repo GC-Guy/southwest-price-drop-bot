@@ -13,6 +13,7 @@
     },
     "PROXY": {
       "description": "Proxy used to query SWA. Example: 123.123.123.123:1234"
+       "required": false
     },
     "PLIVO_ID": {
       "description": "If you would like to use sms text messages, enter your Plivo Auth ID.",
